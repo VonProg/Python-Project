@@ -1,2 +1,3 @@
 # Python-Project
-Basic - Advance python projects
+
+Hello everyone welcome to my first project in Python!
